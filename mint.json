@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "PPID",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Beranda",
       "pages": [
         "introduction",
         "quickstart",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Informasi Publik",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -69,13 +69,13 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Daftar Informasi",
       "pages": [
         "api-reference/introduction"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Permintaan Informasi",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
