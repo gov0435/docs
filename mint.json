@@ -15,9 +15,10 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    
-  ],
+  "primaryTab": {
+    "name": "Beranda"
+  },
+  "topbarLinks": [],
   "topbarCtaButton": {
     "name": "Permohonan Info",
     "url": "https://dashboard.mintlify.com"
