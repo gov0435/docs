@@ -5,7 +5,7 @@
     "dark": "/logo/dark-ppid-bgpgto.png",
     "light": "/logo/ppid-bgpgto.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/icon.png",
   "theme": "prism",
   "colors": {
     "primary": "#0048ba",
@@ -30,8 +30,12 @@
       "url": "informasi"
     },
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Layanan Informasi",
+      "url": "layanan"
+    },
+    {
+      "name": "Data & Statistik",
+      "url": "data"
     }
   ],
   "anchors": [
@@ -73,11 +77,16 @@
       ]
     },
     {
-      "group": "Permintaan Informasi",
+      "group": "Data",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "data/open-data"
+      ]
+    },
+    {
+      "group": "Statistik",
+      "pages": [
+        "data/statistik/layanan",
+        "data/statistik/rangkuman"
       ]
     }
   ],
