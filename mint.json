@@ -58,6 +58,12 @@
       ]
     },
     {
+      "group": "Regulasi",
+      "pages": [
+        "informasi/regulasi"
+      ]
+    },
+    {
       "group": "Informasi Publik",
       "pages": [
         "informasi/setiap-saat",
