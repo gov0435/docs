@@ -3,13 +3,13 @@
   "name": "PPID BGP Provinsi Gorontalo",
   "logo": {
     "dark": "/logo/dark-ppid-bgpgto.png",
-    "light": "/logo/ppid-bgpgto.png"
+    "light": "/logo/light-ppid-bgpgto.png"
   },
   "favicon": "/icon.png",
   "theme": "prism",
   "colors": {
     "primary": "#0048ba",
-    "light": "#195ac0",
+    "light": "#3360ff",
     "dark": "#0048ba",
     "anchors": {
       "from": "#0048ba",
