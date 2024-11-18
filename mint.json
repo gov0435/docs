@@ -67,8 +67,8 @@
     {
       "group": "Informasi Publik",
       "pages": [
-        "informasi/setiap-saat",
         "informasi/berkala",
+        "informasi/setiap-saat",
         "informasi/serta-merta"
       ]
     },
