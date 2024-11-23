@@ -6,26 +6,23 @@ description: 'Struktur Organisasi PPID BGP Gorontalo'
 ---
 PPID UPT adalah pejabat administrator/pejabat pengawas yang membidangi kehumasan di UPT Kemendikbudristek
 
-## Struktur Organisasi
+## Struktur Organisasi PPID
 
 ```mermaid
-  flowchart LR
-    subgraph subgraph1
-        direction TB
-        top1[top] --> bottom1[bottom]
+flowchart TD
+    A[Kepala Balai] --- B[Koordinator PPID]
+    B --- Anggota
+    subgraph Anggota
+        direction LR
+        C1[Anggota PPID] --- C2[Anggota PPID]
+        C2 --- C3[Anggota PPID]
     end
-    subgraph subgraph2
-        direction TB
-        top2[top] --> bottom2[bottom]
-    end
-    %% ^ These subgraphs are identical, except for the links to them:
-
-    %% Link *to* subgraph1: subgraph1 direction is maintained
-    outside --> subgraph1
-    %% Link *within* subgraph2:
-    %% subgraph2 inherits the direction of the top-level graph (LR)
-    outside ---> top2
+  
 ```
 
 
 ## SK Tim PPID
+
+<Card horizontal title="SK PPID 2022 s.d 2024" icon="file-invoice"  color="#E50914">
+    SK PPID BGP Gorontalo Periode 2022 s.d 2024
+  </Card>
