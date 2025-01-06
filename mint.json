@@ -103,5 +103,10 @@
     "instagram": "https://instagram.com/bgpgorontalo",
     "youtube": "https://youtube.com/bgpgorontalo",
     "telegram": "https://t.me/bgpgorontalo"
+  },
+  "analytics": {
+    "ga4": {
+        "measurementId": "G-L52NP6GBFX"
   }
+}
 }
