@@ -1,0 +1,9 @@
+export const BtnLink = ({ title, desc, icon, color, link }) => (
+    <Card horizontal title={title} icon={icon} color={color} href={link}>
+        {desc}
+    </Card>
+);
+
+export const PdfLink = ({ color }) => (
+    <Icon icon="file-pdf" iconType="solid" color={color} />
+);
