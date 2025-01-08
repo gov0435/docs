@@ -75,6 +75,7 @@
     {
       "group": "Layanan Informasi",
       "pages": [
+        "layanan/maklumat-pelayanan",
         "layanan/permohonan-informasi",
         "layanan/pengajuan-keberatan",
         "layanan/biaya",
