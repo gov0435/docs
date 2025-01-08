@@ -76,8 +76,7 @@
       "group": "Layanan Informasi",
       "pages": [
         "layanan/maklumat-pelayanan",
-        "layanan/permohonan-informasi",
-        "layanan/pengajuan-keberatan",
+        "layanan/prosedur",
         "layanan/biaya",
         "layanan/jadwal",
         "layanan/formulir",
