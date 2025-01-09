@@ -76,17 +76,17 @@
       "group": "Layanan Informasi",
       "pages": [
         "layanan/maklumat-pelayanan",
+        "layanan/standar",
         "layanan/prosedur",
-        "layanan/biaya",
-        "layanan/jadwal",
-        "layanan/formulir",
+        "layanan/waktu-biaya",
         "layanan/bantuan"
       ]
     },
     {
       "group": "Data",
       "pages": [
-        "data/open-data"
+        "data/open-data",
+        "data/monev"
       ]
     },
     {
