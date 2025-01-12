@@ -85,7 +85,7 @@
     {
       "group": "Data",
       "pages": [
-        "data/open-data",
+        "data/dashboard",
         "data/monev"
       ]
     },
