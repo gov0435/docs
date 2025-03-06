@@ -1,0 +1,128 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "PPID BGP Provinsi Gorontalo",
+  "appearance": {
+    "default": "light",
+    "strict": false
+  },
+  "background": {
+    "decoration": "windows"
+  },
+  "colors": {
+    "primary": "#0048ba",
+    "light": "#3360ff",
+    "dark": "#0048ba"
+  },
+  "favicon": "/icon.png",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Beranda",
+        "groups": [
+          {
+            "group": "Tentang PPID",
+            "pages": [
+              "beranda",
+              "profil",
+              "visi-misi",
+              "struktur",
+              "tugas-fungsi",
+              "pejabat",
+              "kontak"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Informasi Publik",
+        "groups": [
+          {
+            "group": "Regulasi",
+            "pages": [
+              "informasi/regulasi"
+            ]
+          },
+          {
+            "group": "Informasi Publik",
+            "pages": [
+              "informasi/berkala",
+              "informasi/setiap-saat",
+              "informasi/serta-merta"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Layanan Informasi",
+        "groups": [
+          {
+            "group": "Layanan Informasi",
+            "pages": [
+              "layanan/maklumat-pelayanan",
+              "layanan/standar",
+              "layanan/prosedur",
+              "layanan/waktu-biaya",
+              "layanan/ssd"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Data & Statistik",
+        "groups": [
+          {
+            "group": "Data",
+            "pages": [
+              "data/dashboard",
+              "data/monev"
+            ]
+          },
+          {
+            "group": "Statistik",
+            "pages": [
+              "data/statistik/layanan",
+              "data/statistik/rangkuman",
+              "data/statistik/skm"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Berita Terbaru",
+          "href": "https://bgpgorontalo.kemdikbud.go.id/informasi/",
+          "icon": "newspaper"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/logo/light-ppid-bgpgto.png",
+    "dark": "/logo/dark-ppid-bgpgto.png"
+  },
+  "navbar": {
+    "links": [],
+    "primary": {
+      "type": "button",
+      "label": "Permohonan Info",
+      "href": "https://ppid.bgpgto.id/layanan/prosedur-permohonan-informasi"
+    }
+  },
+  "footer": {
+    "socials": {
+      "website": "https://bgpgorontalo.kemdikbud.go.id",
+      "facebook": "https://facebook.com/bgpgorontalo",
+      "instagram": "https://instagram.com/bgpgorontalo",
+      "youtube": "https://youtube.com/bgpgorontalo",
+      "telegram": "https://t.me/bgpgorontalo"
+    }
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-L52NP6GBFX"
+    }
+  }
+}
