@@ -123,6 +123,10 @@
   "integrations": {
     "ga4": {
       "measurementId": "G-L52NP6GBFX"
+    },
+    "umami": {
+        "websiteId": "15697a7b-6f4a-4837-8cc6-d853da48bb4a",
+        "src": "https://view.cryst.web.id/script.js"
     }
   }
 }
