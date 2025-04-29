@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "PPID BGP Provinsi Gorontalo",
+  "name": "PPID KGTK Provinsi Gorontalo",
   "appearance": {
     "default": "light",
     "strict": false
@@ -93,40 +93,36 @@
       "anchors": [
         {
           "anchor": "Berita Terbaru",
-          "href": "https://bgpgorontalo.kemdikbud.go.id/informasi/",
+          "href": "https://kgtkgorontalo.kemendikdasmen.go.id/informasi/",
           "icon": "newspaper"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light-ppid-bgpgto.png",
-    "dark": "/logo/dark-ppid-bgpgto.png"
+    "light": "/logo/light-ppid-gtkgo.png",
+    "dark": "/logo/dark-ppid-gtkgo.png"
   },
   "navbar": {
     "links": [],
     "primary": {
       "type": "button",
       "label": "Permohonan Info",
-      "href": "https://ppid.bgpgto.id/layanan/prosedur-permohonan-informasi"
+      "href": "https://ppid.gtkgo.id/layanan/prosedur-permohonan-informasi"
     }
   },
   "footer": {
     "socials": {
-      "website": "https://bgpgorontalo.kemdikbud.go.id",
-      "facebook": "https://facebook.com/bgpgorontalo",
-      "instagram": "https://instagram.com/bgpgorontalo",
-      "youtube": "https://youtube.com/bgpgorontalo",
-      "telegram": "https://t.me/bgpgorontalo"
+      "website": "https://kgtkgorontalo.kemendikdasmen.go.id",
+      "facebook": "https://facebook.com/kgtkgorontalo",
+      "instagram": "https://instagram.com/kgtkgorontalo",
+      "youtube": "https://youtube.com/kgtkgorontalo",
+      "telegram": "https://t.me/kgtkgorontalo"
     }
   },
   "integrations": {
     "ga4": {
       "measurementId": "G-L52NP6GBFX"
-    },
-    "umami": {
-        "websiteId": "15697a7b-6f4a-4837-8cc6-d853da48bb4a",
-        "src": "https://view.cryst.web.id/script.js"
     }
   }
 }
