@@ -100,8 +100,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light-ppid-gtkgo.png",
-    "dark": "/logo/dark-ppid-gtkgo.png"
+    "light": "/logo/light-ppid-gtkgo-V0.png",
+    "dark": "/logo/dark-ppid-gtkgo-v0.png"
   },
   "navbar": {
     "links": [],
